@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Anushiya
 - 👀 I’m interested in Java, C, SQL
 - 🌱 I’m currently learning HTML and CSS
--     Degree- BE.CSE
-- 
+-    Degree- BE.CSE
 - 📫 CONTACT- anushiya123anu123@gmail.com
 
 <!---
