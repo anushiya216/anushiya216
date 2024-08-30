@@ -1,11 +1,11 @@
 
         👋 Hi, I’m Anushiya
         
-        👀 I’m interested in Java, C, SQL
+        👀 I’m interested in Java, C, SQL,HTML,CSS
         
-        🌱 I’m currently learning HTML and CSS
+        🌱 I’m currently learning JavaScript,Git
         
-        👩🏻‍🎓 Degree - BE. CSE - Final Year
+        👩🏻‍🎓 Degree - BE.CSE
         
         📫 CONTACT - anushiya123anu123@gmail.com
         
